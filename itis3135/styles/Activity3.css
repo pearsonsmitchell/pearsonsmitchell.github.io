@@ -3,7 +3,7 @@
 /*styling for the whole page goes here*/
 body {
 	font-size: 12px;
-    background-color: red;
+    background-color: grey;
 	color: blue;
 }
 
@@ -18,7 +18,7 @@ h1 {
 
 /*styling for the overall table*/
 table {
-    background-color: red;
+    background-color: grey;
 	border: solid 2px slateblue;
 }
 
